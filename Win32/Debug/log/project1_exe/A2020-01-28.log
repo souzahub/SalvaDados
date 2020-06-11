@@ -1,0 +1,21 @@
+Project1.exe: 00003EE0: 00:23:46 []:>--------------------------------------------------------------<
+Project1.exe: 00003EE0: 00:23:46 [TUniServerModule]:Server First Init.
+Project1.exe: 00003EE0: 00:23:46 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+Project1.exe: 00003EE0: 00:23:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00003EE0: 00:23:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002608: 00:23:47 [192.168.0.104]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CE7F7
+Project1.exe: 00001528: 00:24:34 []:>--------------------------------------------------------------<
+Project1.exe: 00001528: 00:24:34 [TUniServerModule]:Server First Init.
+Project1.exe: 00001528: 00:24:34 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Project1.exe: 00001528: 00:24:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001528: 00:24:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000115C: 00:24:34 [192.168.0.104]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CE7F7
+Project1.exe: 0000115C: 00:24:34 [192.168.0.104]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CE7F7
+Project1.exe: 000032F0: 00:24:34 [192.168.0.104]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CE7F7
+Project1.exe: 00001AC8: 00:25:16 []:>--------------------------------------------------------------<
+Project1.exe: 00001AC8: 00:25:16 [TUniServerModule]:Server First Init.
+Project1.exe: 00001AC8: 00:25:16 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Project1.exe: 00001AC8: 00:25:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001AC8: 00:25:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001B0C: 00:25:18 [192.168.0.104]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CE7F7
+Project1.exe: 00001AC8: 00:25:38 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

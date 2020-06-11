@@ -1,0 +1,32 @@
+Project1.exe: 00002F20: 12:36:42 []:>--------------------------------------------------------------<
+Project1.exe: 00002F20: 12:36:42 [TUniServerModule]:Server First Init.
+Project1.exe: 00002F20: 12:36:42 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+Project1.exe: 00002F20: 12:36:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002F20: 12:36:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002F20: 12:43:02 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00002F20: 12:43:02 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00002F20: 12:43:03 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00002F20: 12:43:03 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00002F20: 12:43:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00002F20: 12:43:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00002F20: 12:43:03 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00002F20: 12:43:03 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00002F20: 12:43:03 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00002F20: 12:43:03 []:<-------------------------------------------------------------->
+Project1.exe: 00002F20: 12:43:03 [Terminated]:Exit Code: 0
+Project1.exe: 00001B78: 12:44:41 []:>--------------------------------------------------------------<
+Project1.exe: 00001B78: 12:44:41 [TUniServerModule]:Server First Init.
+Project1.exe: 00001B78: 12:44:41 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001B78: 12:44:41 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002234: 12:44:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001B78: 12:48:37 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00001B78: 12:48:37 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00001B78: 12:48:38 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00001B78: 12:48:38 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00001B78: 12:48:38 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00001B78: 12:48:38 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00001B78: 12:48:38 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00001B78: 12:48:38 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00001B78: 12:48:38 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00001B78: 12:48:38 []:<-------------------------------------------------------------->
+Project1.exe: 00001B78: 12:48:38 [Terminated]:Exit Code: 0

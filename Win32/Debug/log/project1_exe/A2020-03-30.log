@@ -1,0 +1,67 @@
+Project1.exe: 000015E4: 18:19:08 []:>--------------------------------------------------------------<
+Project1.exe: 000015E4: 18:19:08 [TUniServerModule]:Server First Init.
+Project1.exe: 000015E4: 18:19:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000015E4: 18:19:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000147C: 18:19:54 []:>--------------------------------------------------------------<
+Project1.exe: 0000147C: 18:19:54 [TUniServerModule]:Server First Init.
+Project1.exe: 0000147C: 18:19:54 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 0000147C: 18:19:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000147C: 18:19:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000023F0: 18:22:49 []:>--------------------------------------------------------------<
+Project1.exe: 000023F0: 18:22:49 [TUniServerModule]:Server First Init.
+Project1.exe: 000023F0: 18:22:49 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 000023F0: 18:22:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000023F0: 18:22:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001500: 18:26:16 []:>--------------------------------------------------------------<
+Project1.exe: 00001500: 18:26:16 [TUniServerModule]:Server First Init.
+Project1.exe: 00001500: 18:26:16 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+Project1.exe: 00001500: 18:26:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001500: 18:26:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000229C: 18:26:21 [192.168.0.103]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 000009E0: 18:36:14 []:>--------------------------------------------------------------<
+Project1.exe: 000009E0: 18:36:15 [TUniServerModule]:Server First Init.
+Project1.exe: 000009E0: 18:36:15 [TUniServerModule]:Global Cache Folder Erased. <19> Files deleted.
+Project1.exe: 000009E0: 18:36:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000009E0: 18:36:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001444: 18:36:18 [192.168.0.103]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 000004B8: 18:40:39 []:>--------------------------------------------------------------<
+Project1.exe: 000004B8: 18:40:39 [TUniServerModule]:Server First Init.
+Project1.exe: 000004B8: 18:40:39 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 000004B8: 18:40:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000004B8: 18:40:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000209C: 18:46:02 []:>--------------------------------------------------------------<
+Project1.exe: 0000209C: 18:46:02 [TUniServerModule]:Server First Init.
+Project1.exe: 0000209C: 18:46:02 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 0000209C: 18:46:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000209C: 18:46:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002510: 18:46:16 [192.168.0.103]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00000B54: 18:47:00 [192.168.0.106]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00000B54: 18:47:10 [HandleFileRequest[192.168.0.106]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\favicon.ico
+Project1.exe: 00001CDC: 18:48:02 []:>--------------------------------------------------------------<
+Project1.exe: 00001CDC: 18:48:02 [TUniServerModule]:Server First Init.
+Project1.exe: 00001CDC: 18:48:02 [TUniServerModule]:Global Cache Folder Erased. <10> Files deleted.
+Project1.exe: 00001CDC: 18:48:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001CDC: 18:48:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000F38: 18:49:26 [192.168.0.103]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001CDC: 18:55:17 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+Project1.exe: 00001CCC: 22:05:12 []:>--------------------------------------------------------------<
+Project1.exe: 00001CCC: 22:05:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00001CCC: 22:05:12 [TUniServerModule]:Global Cache Folder Erased. <24> Files deleted.
+Project1.exe: 00001CCC: 22:05:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001CCC: 22:05:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001CCC: 22:06:06 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00001CCC: 22:06:06 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00001CCC: 22:06:07 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00001CCC: 22:06:07 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00001CCC: 22:06:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00001CCC: 22:06:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00001CCC: 22:06:07 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00001CCC: 22:06:07 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00001CCC: 22:06:07 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00001CCC: 22:06:07 []:<-------------------------------------------------------------->
+Project1.exe: 00001CCC: 22:06:07 [Terminated]:Exit Code: 0
+Project1.exe: 00001F48: 22:56:40 []:>--------------------------------------------------------------<
+Project1.exe: 00001F48: 22:56:40 [TUniServerModule]:Server First Init.
+Project1.exe: 00001F48: 22:56:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001F48: 22:56:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001F48: 22:59:38 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

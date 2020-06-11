@@ -1,0 +1,50 @@
+Project1.exe: 00001C40: 14:46:38 []:>--------------------------------------------------------------<
+Project1.exe: 00001C40: 14:46:38 [TUniServerModule]:Server First Init.
+Project1.exe: 00001C40: 14:46:39 [TUniServerModule]:Global Cache Folder Erased. <18> Files deleted.
+Project1.exe: 00001C40: 14:46:39 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001C40: 14:46:39 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000016B8: 14:59:00 []:>--------------------------------------------------------------<
+Project1.exe: 000016B8: 14:59:00 [TUniServerModule]:Server First Init.
+Project1.exe: 000016B8: 14:59:00 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000016B8: 14:59:00 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000016B8: 14:59:00 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006DD475
+Project1.exe: 00001C40: 14:59:05 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00001C40: 14:59:05 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00001C40: 14:59:05 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00001C40: 14:59:05 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00001C40: 14:59:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00001C40: 14:59:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00001C40: 14:59:05 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00001C40: 14:59:05 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00001C40: 14:59:05 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00001C40: 14:59:05 []:<-------------------------------------------------------------->
+Project1.exe: 00001C40: 14:59:05 [Terminated]:Exit Code: 0
+Project1.exe: 000016B8: 14:59:07 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000016B8: 14:59:07 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000016B8: 14:59:07 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000016B8: 14:59:07 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000016B8: 14:59:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000016B8: 14:59:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000016B8: 14:59:07 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000016B8: 14:59:07 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000016B8: 14:59:07 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000016B8: 14:59:07 []:<-------------------------------------------------------------->
+Project1.exe: 000016B8: 14:59:07 [Terminated]:Exit Code: 0
+Project1.exe: 00001BC4: 14:59:11 []:>--------------------------------------------------------------<
+Project1.exe: 00001BC4: 14:59:11 [TUniServerModule]:Server First Init.
+Project1.exe: 00001BC4: 14:59:11 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001BC4: 14:59:11 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002508: 14:59:20 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000269C: 14:59:28 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002854: 15:00:17 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001BC4: 15:41:03 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00001BC4: 15:41:03 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00001BC4: 15:41:03 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00001BC4: 15:41:03 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00001BC4: 15:41:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00001BC4: 15:41:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00001BC4: 15:41:03 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00001BC4: 15:41:03 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00001BC4: 15:41:03 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00001BC4: 15:41:03 []:<-------------------------------------------------------------->
+Project1.exe: 00001BC4: 15:41:03 [Terminated]:Exit Code: 0

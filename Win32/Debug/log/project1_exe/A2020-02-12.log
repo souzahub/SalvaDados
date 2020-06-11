@@ -1,0 +1,105 @@
+Project1.exe: 00000ACC: 00:20:34 []:>--------------------------------------------------------------<
+Project1.exe: 00000ACC: 00:20:34 [TUniServerModule]:Server First Init.
+Project1.exe: 00000ACC: 00:20:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000ACC: 00:20:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000025A0: 00:21:08 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00002F50: 00:21:08 [HandleFileRequest[192.168.0.104]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\favicon.ico
+Project1.exe: 00000A70: 00:21:12 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 000034B0: 00:21:21 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00000ACC: 00:21:28 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00000ACC: 00:21:28 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00000ACC: 00:21:29 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00000ACC: 00:21:29 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00000ACC: 00:21:29 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00000ACC: 00:21:29 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00000ACC: 00:21:29 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00000ACC: 00:21:29 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00000ACC: 00:21:29 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00000ACC: 00:21:29 []:<-------------------------------------------------------------->
+Project1.exe: 00000ACC: 00:21:29 [Terminated]:Exit Code: 0
+Project1.exe: 00003740: 00:21:46 []:>--------------------------------------------------------------<
+Project1.exe: 00003740: 00:21:46 [TUniServerModule]:Server First Init.
+Project1.exe: 00003740: 00:21:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00003740: 00:21:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001AA0: 00:21:53 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00003600: 00:21:53 [HandleFileRequest[192.168.0.104]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\favicon.ico
+Project1.exe: 00002D64: 00:21:55 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00000CF4: 00:21:57 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00002B1C: 00:22:14 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00003740: 00:22:24 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00003740: 00:22:24 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00003740: 00:22:25 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00003740: 00:22:25 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00003740: 00:22:25 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00003740: 00:22:25 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00003740: 00:22:25 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00003740: 00:22:25 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00003740: 00:22:25 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00003740: 00:22:25 []:<-------------------------------------------------------------->
+Project1.exe: 00003740: 00:22:25 [Terminated]:Exit Code: 0
+Project1.exe: 000003C0: 00:24:48 []:>--------------------------------------------------------------<
+Project1.exe: 000003C0: 00:24:48 [TUniServerModule]:Server First Init.
+Project1.exe: 000003C0: 00:24:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000003C0: 00:24:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00003360: 00:24:50 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 0000080C: 00:25:18 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 0000118C: 00:25:51 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 00003310: 00:25:53 [192.168.0.104]:EIBNativeException : [FireDAC][Phys][FB]I/O error during "CreateFile (open)" operation for file "D:\PROJETOS 2020\MOBILE_SALVAREGISTROS\BD\BD.FDB"
+Error while trying to open file
+O sistema não pode encontrar o caminho especificado.  : Addr: $008EF827
+Project1.exe: 000003C0: 00:26:17 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000003C0: 00:26:17 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000003C0: 00:26:18 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000003C0: 00:26:18 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000003C0: 00:26:18 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000003C0: 00:26:18 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000003C0: 00:26:18 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000003C0: 00:26:18 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000003C0: 00:26:18 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000003C0: 00:26:18 []:<-------------------------------------------------------------->
+Project1.exe: 000003C0: 00:26:18 [Terminated]:Exit Code: 0
+Project1.exe: 00003264: 00:27:27 []:>--------------------------------------------------------------<
+Project1.exe: 00003264: 00:27:27 [TUniServerModule]:Server First Init.
+Project1.exe: 00003264: 00:27:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00003264: 00:27:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000339C: 00:28:27 []:>--------------------------------------------------------------<
+Project1.exe: 0000339C: 00:28:27 [TUniServerModule]:Server First Init.
+Project1.exe: 0000339C: 00:28:27 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 0000339C: 00:28:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000339C: 00:28:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000339C: 00:28:55 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 0000339C: 00:28:55 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 0000339C: 00:28:56 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 0000339C: 00:28:56 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 0000339C: 00:28:56 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 0000339C: 00:28:56 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 0000339C: 00:28:56 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 0000339C: 00:28:56 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 0000339C: 00:28:56 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 0000339C: 00:28:56 []:<-------------------------------------------------------------->
+Project1.exe: 0000339C: 00:28:56 [Terminated]:Exit Code: 0
+Project1.exe: 00002420: 00:29:24 []:>--------------------------------------------------------------<
+Project1.exe: 00002420: 00:29:24 [TUniServerModule]:Server First Init.
+Project1.exe: 00002420: 00:29:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002420: 00:29:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002420: 01:40:27 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

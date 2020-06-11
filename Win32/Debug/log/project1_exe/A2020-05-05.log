@@ -1,0 +1,6 @@
+Project1.exe: 00002D38: 19:23:17 []:>--------------------------------------------------------------<
+Project1.exe: 00002D38: 19:23:17 [TUniServerModule]:Server First Init.
+Project1.exe: 00002D38: 19:23:17 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002D38: 19:23:17 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002D38: 19:23:17 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002D38: 19:56:08 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

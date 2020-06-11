@@ -1,0 +1,306 @@
+Project1.exe: 000027F8: 12:05:40 []:>--------------------------------------------------------------<
+Project1.exe: 000027F8: 12:05:40 [TUniServerModule]:Server First Init.
+Project1.exe: 000027F8: 12:05:40 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 000027F8: 12:05:40 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000027F8: 12:05:40 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002194: 12:07:06 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000370C: 12:07:40 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000015D4: 12:10:04 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E78: 12:15:28 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000026A4: 12:15:30 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001478: 12:15:40 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E20: 12:18:42 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00003AD8: 12:20:05 []:>--------------------------------------------------------------<
+Project1.exe: 00003AD8: 12:20:05 [TUniServerModule]:Server First Init.
+Project1.exe: 00003AD8: 12:20:05 [TUniServerModule]:Global Cache Folder Erased. <15> Files deleted.
+Project1.exe: 00003AD8: 12:20:05 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00003AD8: 12:20:05 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00003204: 12:20:05 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001F44: 12:20:21 [192.168.0.103]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001F44: 12:20:24 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000153C: 12:20:35 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001A18: 12:20:47 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000016B0: 12:20:55 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003070: 12:21:26 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002F50: 12:21:36 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002378: 12:22:23 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000027DC: 12:22:28 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002338: 12:22:35 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003378: 12:22:41 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002C48: 12:22:45 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000037EC: 12:22:52 [HandleFileRequest[192.168.0.103]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002648: 12:29:35 []:>--------------------------------------------------------------<
+Project1.exe: 00002648: 12:29:35 [TUniServerModule]:Server First Init.
+Project1.exe: 00002648: 12:29:35 [TUniServerModule]:Global Cache Folder Erased. <26> Files deleted.
+Project1.exe: 00002648: 12:29:35 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002648: 12:29:35 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002694: 12:30:09 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002694: 12:31:21 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001DC0: 12:31:30 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002718: 12:31:33 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001CBC: 12:31:38 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001DE0: 12:31:46 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E60: 12:31:49 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000B4C: 12:32:55 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002064: 12:34:57 []:>--------------------------------------------------------------<
+Project1.exe: 00002064: 12:34:57 [TUniServerModule]:Server First Init.
+Project1.exe: 00002064: 12:34:57 [TUniServerModule]:Global Cache Folder Erased. <15> Files deleted.
+Project1.exe: 00002064: 12:34:57 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002064: 12:34:57 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000658: 12:35:44 []:>--------------------------------------------------------------<
+Project1.exe: 00000658: 12:35:44 [TUniServerModule]:Server First Init.
+Project1.exe: 00000658: 12:35:44 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00000658: 12:35:44 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00000658: 12:35:44 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002458: 12:36:27 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000A98: 12:36:38 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001C64: 12:36:57 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001C64: 12:36:59 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001E6C: 12:37:22 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E54: 12:39:22 []:>--------------------------------------------------------------<
+Project1.exe: 00001E54: 12:39:22 [TUniServerModule]:Server First Init.
+Project1.exe: 00001E54: 12:39:22 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+Project1.exe: 00001E54: 12:39:22 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001E54: 12:39:22 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002A98: 12:39:22 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002A98: 12:39:22 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002A98: 12:39:22 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001BD0: 12:39:27 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001BD0: 12:39:30 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000BAC: 12:39:42 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000005F4: 12:40:16 []:>--------------------------------------------------------------<
+Project1.exe: 000005F4: 12:40:16 [TUniServerModule]:Server First Init.
+Project1.exe: 000005F4: 12:40:16 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+Project1.exe: 000005F4: 12:40:16 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000005F4: 12:40:16 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002AE0: 12:40:17 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002AE0: 12:40:17 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002AE0: 12:40:19 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000004EC: 12:40:28 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000758: 12:41:28 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001E58: 12:41:40 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001A64: 12:42:50 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001610: 12:43:04 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000248C: 12:43:41 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002090: 12:43:51 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000950: 12:43:59 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000CEC: 12:44:09 []:>--------------------------------------------------------------<
+Project1.exe: 00000CEC: 12:44:09 [TUniServerModule]:Server First Init.
+Project1.exe: 00000CEC: 12:44:09 [TUniServerModule]:Global Cache Folder Erased. <15> Files deleted.
+Project1.exe: 00000CEC: 12:44:09 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00000CEC: 12:44:09 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001E98: 12:44:09 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001E98: 12:44:09 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001E98: 12:44:10 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000025A0: 12:44:20 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000010F4: 12:44:36 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001258: 12:44:45 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000014B8: 12:46:24 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000027E4: 12:46:44 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E6C: 12:47:49 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000024D8: 12:47:58 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000248C: 12:48:04 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002460: 12:48:20 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000254C: 12:48:45 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000027AC: 12:48:54 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000212C: 12:48:58 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000CEC: 12:49:23 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+Project1.exe: 00002628: 20:46:18 []:>--------------------------------------------------------------<
+Project1.exe: 00002628: 20:46:18 [TUniServerModule]:Server First Init.
+Project1.exe: 00002628: 20:46:18 [TUniServerModule]:Global Cache Folder Erased. <26> Files deleted.
+Project1.exe: 00002628: 20:46:18 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002628: 20:46:18 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000013B0: 20:46:26 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001284: 20:46:42 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000B4C: 20:46:46 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000014C4: 20:46:55 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001C88: 20:46:59 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002110: 20:47:04 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000C28: 20:47:18 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000004AC: 20:55:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000F8C: 21:01:13 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000029C8: 21:02:07 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002784: 21:06:03 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001190: 21:30:59 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001190: 21:31:02 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000738: 21:31:15 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002160: 21:42:38 []:>--------------------------------------------------------------<
+Project1.exe: 00002160: 21:42:39 [TUniServerModule]:Server First Init.
+Project1.exe: 00002160: 21:42:39 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002160: 21:42:39 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002160: 21:42:39 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001954: 21:42:51 []:>--------------------------------------------------------------<
+Project1.exe: 00001954: 21:42:51 [TUniServerModule]:Server First Init.
+Project1.exe: 00001954: 21:42:51 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001954: 21:42:51 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001954: 21:42:51 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001534: 21:43:57 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001534: 21:44:00 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000007F4: 21:44:14 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000028A0: 21:44:32 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000374: 21:44:52 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000084C: 21:45:13 []:>--------------------------------------------------------------<
+Project1.exe: 0000084C: 21:45:13 [TUniServerModule]:Server First Init.
+Project1.exe: 0000084C: 21:45:13 [TUniServerModule]:Global Cache Folder Erased. <9> Files deleted.
+Project1.exe: 0000084C: 21:45:13 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000084C: 21:45:13 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002268: 21:45:14 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002268: 21:45:14 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002268: 21:45:16 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001074: 21:45:29 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000011D8: 21:47:21 []:>--------------------------------------------------------------<
+Project1.exe: 000011D8: 21:47:21 [TUniServerModule]:Server First Init.
+Project1.exe: 000011D8: 21:47:21 [TUniServerModule]:Global Cache Folder Erased. <13> Files deleted.
+Project1.exe: 000011D8: 21:47:21 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000011D8: 21:47:21 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002D14: 21:48:47 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002D8C: 21:49:29 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001368: 21:49:51 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002D40: 21:50:21 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002D40: 21:50:25 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002E18: 21:50:38 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000998: 21:51:17 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000029A4: 21:51:27 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001F64: 21:51:50 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E3C: 21:52:47 []:>--------------------------------------------------------------<
+Project1.exe: 00001E3C: 21:52:47 [TUniServerModule]:Server First Init.
+Project1.exe: 00001E3C: 21:52:47 [TUniServerModule]:Global Cache Folder Erased. <13> Files deleted.
+Project1.exe: 00001E3C: 21:52:47 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001E3C: 21:52:47 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000248: 21:52:50 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00000248: 21:53:13 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002F28: 21:53:40 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002F68: 21:53:52 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001EB0: 21:54:19 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002FF0: 21:54:27 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001EE0: 21:54:39 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000025BC: 21:55:06 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000120: 21:55:15 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002DD0: 21:55:36 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000107C: 21:55:54 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002D50: 21:56:04 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002E7C: 21:56:18 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001DB4: 21:56:33 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000013FC: 21:56:43 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002E28: 22:01:44 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00001FE0: 22:01:45 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\favicon.ico
+Project1.exe: 00002E28: 22:01:46 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002B38: 22:01:59 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001CDC: 22:04:06 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000000E0: 22:19:19 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002E78: 22:19:21 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000000DC: 22:45:36 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 0000334C: 22:55:32 []:>--------------------------------------------------------------<
+Project1.exe: 0000334C: 22:55:32 [TUniServerModule]:Server First Init.
+Project1.exe: 0000334C: 22:55:32 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 0000334C: 22:55:32 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000334C: 22:55:32 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002CF4: 22:55:42 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000374: 22:55:54 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001844: 22:55:54 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001B88: 22:56:08 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002938: 22:56:36 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000298C: 22:56:48 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000F88: 22:56:49 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000024C0: 22:56:57 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002E40: 22:56:57 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001FC4: 22:57:16 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001BA0: 22:57:30 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000006C4: 22:57:30 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00002FF4: 22:58:12 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000AF4: 22:58:37 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000011CC: 22:58:47 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002C2C: 22:58:47 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00002448: 23:11:09 []:>--------------------------------------------------------------<
+Project1.exe: 00002448: 23:11:09 [TUniServerModule]:Server First Init.
+Project1.exe: 00002448: 23:11:09 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002448: 23:11:09 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002448: 23:11:09 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000011B8: 23:11:12 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 000011B8: 23:11:15 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000037F4: 23:11:26 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000351C: 23:11:26 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000036E4: 23:11:47 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000C90: 23:11:47 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001B94: 23:12:18 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000033F8: 23:12:18 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00002E34: 23:15:12 []:>--------------------------------------------------------------<
+Project1.exe: 00002E34: 23:15:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00002E34: 23:15:12 [TUniServerModule]:Global Cache Folder Erased. <9> Files deleted.
+Project1.exe: 00002E34: 23:15:12 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002E34: 23:15:12 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000004BC: 23:15:12 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 000004BC: 23:15:14 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000224: 23:15:28 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000408: 23:15:28 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00000DD8: 23:15:57 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000219C: 23:15:57 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000036F8: 23:16:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001E28: 23:16:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 0000273C: 23:16:20 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000020D4: 23:16:20 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00002AD0: 23:16:23 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001D64: 23:16:23 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000037F8: 23:16:34 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000034C4: 23:16:35 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000007C8: 23:18:41 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002B0C: 23:19:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 0000188C: 23:19:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00000470: 23:20:26 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002D64: 23:20:26 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000034A8: 23:23:48 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000356C: 23:24:03 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000036DC: 23:24:03 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001D64: 23:32:11 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00000F74: 23:32:11 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00003BE8: 23:32:21 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003124: 23:32:21 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001E00: 23:32:32 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\favicon.ico
+Project1.exe: 00003B38: 23:32:32 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001D64: 23:32:36 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002CF4: 23:32:49 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003BE8: 23:32:49 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 0000334C: 23:38:11 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000356C: 23:38:25 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002780: 23:38:25 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00003B00: 23:40:45 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000323C: 23:40:50 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001074: 23:43:34 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00003470: 23:43:51 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000F74: 23:43:51 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00003AE8: 23:43:59 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000034C4: 23:44:18 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000383C: 23:44:34 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000034FC: 23:44:35 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001E3C: 23:45:06 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003204: 23:45:06 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00001CCC: 23:45:10 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003BD8: 23:45:10 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 000024A0: 23:45:57 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00003B18: 23:46:38 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003B20: 23:46:38 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 0000184C: 23:47:03 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000036A0: 23:48:58 []:>--------------------------------------------------------------<
+Project1.exe: 000036A0: 23:48:59 [TUniServerModule]:Server First Init.
+Project1.exe: 000036A0: 23:48:59 [TUniServerModule]:Global Cache Folder Erased. <27> Files deleted.
+Project1.exe: 000036A0: 23:48:59 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000036A0: 23:48:59 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000034E0: 23:49:00 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 000034E0: 23:49:02 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000598: 23:49:16 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000029E8: 23:49:16 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00003698: 23:51:11 []:>--------------------------------------------------------------<
+Project1.exe: 00003698: 23:51:11 [TUniServerModule]:Server First Init.
+Project1.exe: 00003698: 23:51:11 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00003698: 23:51:11 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00003698: 23:51:11 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002E7C: 23:51:16 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00002E7C: 23:51:19 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001B88: 23:51:32 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002D00: 23:51:32 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00003354: 23:51:40 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000039E8: 23:51:40 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js
+Project1.exe: 00003984: 23:52:03 [127.0.0.1]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 00003984: 23:52:04 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002F3C: 23:52:19 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00003500: 23:52:19 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\button.js

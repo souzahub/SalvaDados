@@ -1,0 +1,9 @@
+Project1.exe: 00002DD4: 19:44:55 []:>--------------------------------------------------------------<
+Project1.exe: 00002DD4: 19:44:55 [TUniServerModule]:Server First Init.
+Project1.exe: 00002DD4: 19:44:55 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002DD4: 19:44:55 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001384: 19:45:02 [HandleFileRequest[192.168.0.100]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000023B8: 19:50:43 [HandleFileRequest[192.168.0.100]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002B0C: 20:25:41 [192.168.0.100]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00002B0C: 20:25:43 [HandleFileRequest[192.168.0.100]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001A08: 20:38:49 [HandleFileRequest[192.168.0.100]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif

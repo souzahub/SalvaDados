@@ -1,0 +1,54 @@
+Project1.exe: 00001430: 00:01:58 []:>--------------------------------------------------------------<
+Project1.exe: 00001430: 00:01:58 [TUniServerModule]:Server First Init.
+Project1.exe: 00001430: 00:01:58 [TUniServerModule]:Global Cache Folder Erased. <24> Files deleted.
+Project1.exe: 00001430: 00:01:58 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001430: 00:01:58 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000002B4: 00:02:00 [192.168.0.102]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 000011B8: 00:02:21 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000002B4: 00:03:09 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001F88: 00:08:42 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002F58: 00:09:14 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002288: 00:09:42 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00000A3C: 00:10:09 [HandleFileRequest[127.0.0.1]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000003B0: 00:11:36 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00001430: 00:14:41 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00001430: 00:14:41 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00001430: 00:14:42 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00001430: 00:14:42 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00001430: 00:14:42 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00001430: 00:14:42 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00001430: 00:14:42 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00001430: 00:14:42 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00001430: 00:14:43 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00001430: 00:14:43 []:<-------------------------------------------------------------->
+Project1.exe: 00001430: 00:14:43 [Terminated]:Exit Code: 0
+Project1.exe: 00000E0C: 00:14:54 []:>--------------------------------------------------------------<
+Project1.exe: 00000E0C: 00:14:54 [TUniServerModule]:Server First Init.
+Project1.exe: 00000E0C: 00:14:54 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00000E0C: 00:14:54 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000024E8: 00:14:57 [192.168.0.102]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 000024E8: 00:15:43 [192.168.0.102]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CF2D7
+Project1.exe: 000024E8: 00:15:59 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000009B8: 00:20:35 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 00002198: 01:22:12 []:>--------------------------------------------------------------<
+Project1.exe: 00002198: 01:22:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00002198: 01:22:12 [TUniServerModule]:Global Cache Folder Erased. <13> Files deleted.
+Project1.exe: 00002198: 01:22:12 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002198: 01:22:12 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 0000056C: 01:22:49 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\css\estilo.css
+Project1.exe: 000001F0: 01:31:20 []:>--------------------------------------------------------------<
+Project1.exe: 000001F0: 01:31:20 [TUniServerModule]:Server First Init.
+Project1.exe: 000001F0: 01:31:20 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+Project1.exe: 000001F0: 01:31:20 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000001F0: 01:31:20 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000001F0: 01:31:32 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000001F0: 01:31:32 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000001F0: 01:31:33 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000001F0: 01:31:33 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000001F0: 01:31:33 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000001F0: 01:31:33 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000001F0: 01:31:33 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000001F0: 01:31:33 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000001F0: 01:31:33 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000001F0: 01:31:33 []:<-------------------------------------------------------------->
+Project1.exe: 000001F0: 01:31:33 [Terminated]:Exit Code: 0

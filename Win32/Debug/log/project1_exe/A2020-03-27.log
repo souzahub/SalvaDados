@@ -1,0 +1,195 @@
+Project1.exe: 000027EC: 21:40:23 []:>--------------------------------------------------------------<
+Project1.exe: 000027EC: 21:40:23 [TUniServerModule]:Server First Init.
+Project1.exe: 000027EC: 21:40:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000027EC: 21:40:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000027EC: 21:52:40 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000027EC: 21:52:40 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000027EC: 21:52:40 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000027EC: 21:52:40 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000027EC: 21:52:40 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000027EC: 21:52:40 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000027EC: 21:52:40 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000027EC: 21:52:40 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000027EC: 21:52:40 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000027EC: 21:52:40 []:<-------------------------------------------------------------->
+Project1.exe: 000027EC: 21:52:40 [Terminated]:Exit Code: 0
+Project1.exe: 00001B4C: 22:14:49 []:>--------------------------------------------------------------<
+Project1.exe: 00001B4C: 22:14:49 [TUniServerModule]:Server First Init.
+Project1.exe: 00001B4C: 22:14:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001B4C: 22:14:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002050: 22:19:21 []:>--------------------------------------------------------------<
+Project1.exe: 00002050: 22:19:21 [TUniServerModule]:Server First Init.
+Project1.exe: 00002050: 22:19:21 [TUniServerModule]:Global Cache Folder Erased. <13> Files deleted.
+Project1.exe: 00002050: 22:19:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002050: 22:19:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000C3C: 22:19:28 []:>--------------------------------------------------------------<
+Project1.exe: 00000C3C: 22:19:28 [TUniServerModule]:Server First Init.
+Project1.exe: 00000C3C: 22:19:28 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00000C3C: 22:19:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000C3C: 22:19:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002C58: 22:28:24 []:>--------------------------------------------------------------<
+Project1.exe: 00002C58: 22:28:24 [TUniServerModule]:Server First Init.
+Project1.exe: 00002C58: 22:28:24 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002C58: 22:28:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002C58: 22:28:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000BB8: 22:29:49 []:>--------------------------------------------------------------<
+Project1.exe: 00000BB8: 22:29:49 [TUniServerModule]:Server First Init.
+Project1.exe: 00000BB8: 22:29:49 [TUniServerModule]:Global Cache Folder Erased. <19> Files deleted.
+Project1.exe: 00000BB8: 22:29:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000BB8: 22:29:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000022C8: 22:30:18 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 2, column 13 : Addr: $008EEA77
+Project1.exe: 000022C8: 22:30:58 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 2, column 13 : Addr: $008EEA77
+Project1.exe: 00000CD8: 22:31:07 []:>--------------------------------------------------------------<
+Project1.exe: 00000CD8: 22:31:07 [TUniServerModule]:Server First Init.
+Project1.exe: 00000CD8: 22:31:07 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 00000CD8: 22:31:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000CD8: 22:31:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001A44: 22:31:07 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001A44: 22:31:07 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00002A38: 22:32:09 []:>--------------------------------------------------------------<
+Project1.exe: 00002A38: 22:32:09 [TUniServerModule]:Server First Init.
+Project1.exe: 00002A38: 22:32:09 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00002A38: 22:32:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002A38: 22:32:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001534: 22:32:57 []:>--------------------------------------------------------------<
+Project1.exe: 00001534: 22:32:57 [TUniServerModule]:Server First Init.
+Project1.exe: 00001534: 22:32:57 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00001534: 22:32:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001534: 22:32:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001B14: 22:32:58 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001828: 22:33:25 []:>--------------------------------------------------------------<
+Project1.exe: 00001828: 22:33:25 [TUniServerModule]:Server First Init.
+Project1.exe: 00001828: 22:33:25 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00001828: 22:33:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001828: 22:33:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000239C: 22:33:29 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001C6C: 22:36:11 []:>--------------------------------------------------------------<
+Project1.exe: 00001C6C: 22:36:11 [TUniServerModule]:Server First Init.
+Project1.exe: 00001C6C: 22:36:11 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00001C6C: 22:36:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001C6C: 22:36:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000203C: 22:36:18 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001938: 22:37:08 []:>--------------------------------------------------------------<
+Project1.exe: 00001938: 22:37:08 [TUniServerModule]:Server First Init.
+Project1.exe: 00001938: 22:37:08 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001938: 22:37:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001938: 22:37:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000146C: 22:38:28 []:>--------------------------------------------------------------<
+Project1.exe: 0000146C: 22:38:28 [TUniServerModule]:Server First Init.
+Project1.exe: 0000146C: 22:38:28 [TUniServerModule]:Global Cache Folder Erased. <13> Files deleted.
+Project1.exe: 0000146C: 22:38:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000146C: 22:38:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002920: 22:38:32 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00002254: 22:38:50 [192.168.0.106]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 000012A4: 22:41:26 []:>--------------------------------------------------------------<
+Project1.exe: 000012A4: 22:41:26 [TUniServerModule]:Server First Init.
+Project1.exe: 000012A4: 22:41:26 [TUniServerModule]:Global Cache Folder Erased. <13> Files deleted.
+Project1.exe: 000012A4: 22:41:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000012A4: 22:41:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002B50: 22:41:27 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00000C04: 22:45:13 []:>--------------------------------------------------------------<
+Project1.exe: 00000C04: 22:45:13 [TUniServerModule]:Server First Init.
+Project1.exe: 00000C04: 22:45:13 [TUniServerModule]:Global Cache Folder Erased. <24> Files deleted.
+Project1.exe: 00000C04: 22:45:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000C04: 22:45:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000160: 22:45:17 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 000008CC: 23:15:18 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 000019A0: 23:17:24 []:>--------------------------------------------------------------<
+Project1.exe: 000019A0: 23:17:24 [TUniServerModule]:Server First Init.
+Project1.exe: 000019A0: 23:17:24 [TUniServerModule]:Global Cache Folder Erased. <9> Files deleted.
+Project1.exe: 000019A0: 23:17:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000019A0: 23:17:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000005D4: 23:17:24 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 000005D4: 23:17:39 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+( : Addr: $008EEA77
+Project1.exe: 00000CFC: 23:18:47 []:>--------------------------------------------------------------<
+Project1.exe: 00000CFC: 23:18:47 [TUniServerModule]:Server First Init.
+Project1.exe: 00000CFC: 23:18:47 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 00000CFC: 23:18:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000CFC: 23:18:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000017D4: 23:18:49 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 000017D4: 23:19:08 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+( : Addr: $008EEA77
+Project1.exe: 00000AC8: 23:20:09 []:>--------------------------------------------------------------<
+Project1.exe: 00000AC8: 23:20:09 [TUniServerModule]:Server First Init.
+Project1.exe: 00000AC8: 23:20:09 [TUniServerModule]:Global Cache Folder Erased. <9> Files deleted.
+Project1.exe: 00000AC8: 23:20:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000AC8: 23:20:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000AB4: 23:20:09 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00000AB4: 23:20:21 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+( : Addr: $008EEA77
+Project1.exe: 000019C0: 23:20:41 []:>--------------------------------------------------------------<
+Project1.exe: 000019C0: 23:20:41 [TUniServerModule]:Server First Init.
+Project1.exe: 000019C0: 23:20:41 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 000019C0: 23:20:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000019C0: 23:20:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002CDC: 23:22:36 []:>--------------------------------------------------------------<
+Project1.exe: 00002CDC: 23:22:36 [TUniServerModule]:Server First Init.
+Project1.exe: 00002CDC: 23:22:36 [TUniServerModule]:Global Cache Folder Erased. <20> Files deleted.
+Project1.exe: 00002CDC: 23:22:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002CDC: 23:22:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002B7C: 23:22:36 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00002B7C: 23:22:48 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+( : Addr: $008EEA77
+Project1.exe: 00002A84: 23:24:12 []:>--------------------------------------------------------------<
+Project1.exe: 00002A84: 23:24:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00002A84: 23:24:12 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 00002A84: 23:24:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002A84: 23:24:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000FE8: 23:24:13 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001D58: 23:25:05 []:>--------------------------------------------------------------<
+Project1.exe: 00001D58: 23:25:05 [TUniServerModule]:Server First Init.
+Project1.exe: 00001D58: 23:25:05 [TUniServerModule]:Global Cache Folder Erased. <23> Files deleted.
+Project1.exe: 00001D58: 23:25:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001D58: 23:25:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002D3C: 23:25:06 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00002D3C: 23:25:18 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+( : Addr: $008EEA77
+Project1.exe: 0000102C: 23:28:29 []:>--------------------------------------------------------------<
+Project1.exe: 0000102C: 23:28:29 [TUniServerModule]:Server First Init.
+Project1.exe: 0000102C: 23:28:29 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 0000102C: 23:28:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000102C: 23:28:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001764: 23:28:30 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001764: 23:28:44 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+( : Addr: $008EEA77
+Project1.exe: 00000150: 23:29:13 []:>--------------------------------------------------------------<
+Project1.exe: 00000150: 23:29:13 [TUniServerModule]:Server First Init.
+Project1.exe: 00000150: 23:29:13 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 00000150: 23:29:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000150: 23:29:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001CF0: 23:29:14 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001CF0: 23:29:56 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 2
+TIPO : Addr: $008EEA77
+Project1.exe: 00001CF0: 23:29:59 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 2
+TIPO : Addr: $008EEA77
+Project1.exe: 00001404: 23:30:29 []:>--------------------------------------------------------------<
+Project1.exe: 00001404: 23:30:29 [TUniServerModule]:Server First Init.
+Project1.exe: 00001404: 23:30:29 [TUniServerModule]:Global Cache Folder Erased. <9> Files deleted.
+Project1.exe: 00001404: 23:30:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001404: 23:30:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001714: 23:30:30 [192.168.0.101]:EUniSessionException : Invalid session or session Timeout. : Addr: $007CEFF3
+Project1.exe: 00001714: 23:30:42 [192.168.0.101]:EIBNativeException : [FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 3, column 1
+TIPO : Addr: $008EEA77

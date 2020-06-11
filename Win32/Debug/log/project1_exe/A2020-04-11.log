@@ -1,0 +1,112 @@
+Project1.exe: 000020C0: 08:57:38 []:>--------------------------------------------------------------<
+Project1.exe: 000020C0: 08:57:38 [TUniServerModule]:Server First Init.
+Project1.exe: 000020C0: 08:57:38 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000020C0: 08:57:38 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000AF0: 08:59:03 []:>--------------------------------------------------------------<
+Project1.exe: 00000AF0: 08:59:03 [TUniServerModule]:Server First Init.
+Project1.exe: 00000AF0: 08:59:03 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00000AF0: 08:59:03 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00000AF0: 08:59:03 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006DD475
+Project1.exe: 000020C0: 08:59:07 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000020C0: 08:59:07 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000020C0: 08:59:08 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000020C0: 08:59:08 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000020C0: 08:59:08 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000020C0: 08:59:08 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000020C0: 08:59:08 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000020C0: 08:59:08 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000020C0: 08:59:08 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000020C0: 08:59:08 []:<-------------------------------------------------------------->
+Project1.exe: 000020C0: 08:59:08 [Terminated]:Exit Code: 0
+Project1.exe: 00000AF0: 08:59:09 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00000AF0: 08:59:09 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00000AF0: 08:59:10 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00000AF0: 08:59:10 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00000AF0: 08:59:10 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00000AF0: 08:59:10 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00000AF0: 08:59:10 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00000AF0: 08:59:10 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00000AF0: 08:59:10 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00000AF0: 08:59:10 []:<-------------------------------------------------------------->
+Project1.exe: 00000AF0: 08:59:10 [Terminated]:Exit Code: 0
+Project1.exe: 0000223C: 08:59:19 []:>--------------------------------------------------------------<
+Project1.exe: 0000223C: 08:59:19 [TUniServerModule]:Server First Init.
+Project1.exe: 0000223C: 08:59:20 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000223C: 08:59:20 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 0000267C: 09:00:34 []:>--------------------------------------------------------------<
+Project1.exe: 0000267C: 09:00:34 [TUniServerModule]:Server First Init.
+Project1.exe: 0000267C: 09:00:34 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 0000267C: 09:00:34 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000267C: 09:00:34 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001498: 09:00:36 []:>--------------------------------------------------------------<
+Project1.exe: 00001498: 09:00:36 [TUniServerModule]:Server First Init.
+Project1.exe: 00001498: 09:00:36 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001498: 09:00:36 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001498: 09:00:36 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006DD475
+Project1.exe: 0000267C: 09:00:39 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 0000267C: 09:00:39 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 0000267C: 09:00:40 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 0000267C: 09:00:40 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 0000267C: 09:00:40 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 0000267C: 09:00:40 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 0000267C: 09:00:40 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 0000267C: 09:00:40 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 0000267C: 09:00:40 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 0000267C: 09:00:40 []:<-------------------------------------------------------------->
+Project1.exe: 0000267C: 09:00:40 [Terminated]:Exit Code: 0
+Project1.exe: 0000050C: 09:00:41 []:>--------------------------------------------------------------<
+Project1.exe: 0000050C: 09:00:41 [TUniServerModule]:Server First Init.
+Project1.exe: 0000050C: 09:00:41 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000050C: 09:00:41 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001FF0: 09:01:10 []:>--------------------------------------------------------------<
+Project1.exe: 00001FF0: 09:01:10 [TUniServerModule]:Server First Init.
+Project1.exe: 00001FF0: 09:01:10 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001FF0: 09:01:10 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001FF0: 09:01:10 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002148: 09:05:32 []:>--------------------------------------------------------------<
+Project1.exe: 00002148: 09:05:32 [TUniServerModule]:Server First Init.
+Project1.exe: 00002148: 09:05:32 [TUniServerModule]:Global Cache Folder Erased. <19> Files deleted.
+Project1.exe: 00002148: 09:05:32 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002148: 09:05:32 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000029A4: 09:08:11 []:>--------------------------------------------------------------<
+Project1.exe: 000029A4: 09:08:11 [TUniServerModule]:Server First Init.
+Project1.exe: 000029A4: 09:08:11 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 000029A4: 09:08:11 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000029A4: 09:08:11 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001650: 09:08:12 [192.168.0.107]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001DAC: 09:09:21 []:>--------------------------------------------------------------<
+Project1.exe: 00001DAC: 09:09:21 [TUniServerModule]:Server First Init.
+Project1.exe: 00001DAC: 09:09:21 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00001DAC: 09:09:21 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001DAC: 09:09:21 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002040: 09:11:36 []:>--------------------------------------------------------------<
+Project1.exe: 00002040: 09:11:36 [TUniServerModule]:Server First Init.
+Project1.exe: 00002040: 09:11:36 [TUniServerModule]:Global Cache Folder Erased. <10> Files deleted.
+Project1.exe: 00002040: 09:11:36 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002040: 09:11:36 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002B94: 09:11:37 [192.168.0.107]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00000BD4: 09:18:07 []:>--------------------------------------------------------------<
+Project1.exe: 00000BD4: 09:18:07 [TUniServerModule]:Server First Init.
+Project1.exe: 00000BD4: 09:18:07 [TUniServerModule]:Global Cache Folder Erased. <19> Files deleted.
+Project1.exe: 00000BD4: 09:18:07 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00000BD4: 09:18:07 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001958: 09:18:09 [192.168.0.107]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00000B40: 09:18:14 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001B6C: 09:19:12 []:>--------------------------------------------------------------<
+Project1.exe: 00001B6C: 09:19:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00001B6C: 09:19:12 [TUniServerModule]:Global Cache Folder Erased. <10> Files deleted.
+Project1.exe: 00001B6C: 09:19:12 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001B6C: 09:19:12 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000024A4: 09:19:26 []:>--------------------------------------------------------------<
+Project1.exe: 000024A4: 09:19:26 [TUniServerModule]:Server First Init.
+Project1.exe: 000024A4: 09:19:26 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000024A4: 09:19:26 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000024A4: 09:19:26 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002380: 09:19:45 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00002190: 09:24:34 []:>--------------------------------------------------------------<
+Project1.exe: 00002190: 09:24:34 [TUniServerModule]:Server First Init.
+Project1.exe: 00002190: 09:24:34 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 00002190: 09:24:34 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002190: 09:24:34 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002AC0: 09:50:47 [192.168.0.107]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00002190: 09:50:53 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

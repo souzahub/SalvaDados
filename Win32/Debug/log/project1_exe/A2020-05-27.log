@@ -1,0 +1,7 @@
+Project1.exe: 0000250C: 11:30:23 []:>--------------------------------------------------------------<
+Project1.exe: 0000250C: 11:30:23 [TUniServerModule]:Server First Init.
+Project1.exe: 0000250C: 11:30:23 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000250C: 11:30:24 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000038F8: 11:31:12 [HandleFileRequest[192.168.0.100]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000288C: 11:31:24 [HandleFileRequest[192.168.0.100]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000250C: 17:14:03 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

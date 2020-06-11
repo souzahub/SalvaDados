@@ -1,0 +1,8 @@
+Project1.exe: 00002780: 12:07:51 []:>--------------------------------------------------------------<
+Project1.exe: 00002780: 12:07:51 [TUniServerModule]:Server First Init.
+Project1.exe: 00002780: 12:07:51 [TUniServerModule]:Global Cache Folder Erased. <16> Files deleted.
+Project1.exe: 00002780: 12:07:51 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002780: 12:07:51 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000F28: 12:08:00 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000167C: 12:08:30 [HandleFileRequest[192.168.0.102]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002780: 12:10:04 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="6.5.6" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43963,4051306597" ReportOptions.Description.Text="" ReportOptions.LastChange="43963,5060205787" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="frxDBRelatorio" DataSetName="frxDBDatasetOS"/>
+    <item DataSet="frxDBRelatCliente" DataSetName="frxDBDatasetServicosCliente"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0" HGuides.Text="" VGuides.Text="">
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="39,90538" Left="0" Top="453,5436" Width="718,1107" ColumnWidth="0" ColumnGap="0" DataSet="frxDBRelatorio" DataSetName="frxDBDatasetOS" RowCount="0"/>
+    <TfrxHeader Name="Header1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="412,01577" Left="0" Top="18,89765" Width="718,1107" ReprintOnNewPage="True">
+      <TfrxGradientView Name="Gradient2" AllowVectorExport="True" Left="6" Top="28,70061409" Width="721,88976622" Height="28,89765" EndColor="12632256" Style="gsHorizontal" Frame.Typ="0" Color="14737632"/>
+      <TfrxMemoView Name="Memo5" AllowVectorExport="True" Left="0" Top="27,65337" Width="718,11023622" Height="29,45671" DataSetName="frxDBDatasetCliente" Font.Charset="1" Font.Color="0" Font.Height="-24" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text=" Ordens de Serviços"/>
+      <TfrxMemoView Name="Memo11" AllowVectorExport="True" Left="630" Top="4,77952024" Width="79,48825" Height="18,89765" Frame.Typ="0" Text="[Date] "/>
+      <TfrxMemoView Name="Memo12" AllowVectorExport="True" Left="584" Top="4,77952024" Width="43,48825" Height="18,89765" Frame.Typ="0" Text="Data -"/>
+      <TfrxMemoView Name="Memo8" AllowVectorExport="True" Left="2,44094" Top="198,03927" Width="65,16543" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="CLIENTE:"/>
+      <TfrxMemoView Name="Memo17" AllowVectorExport="True" Left="5,22047" Top="4,77952024" Width="43,48825" Height="18,89765" Frame.Typ="0" Text="Pag -"/>
+      <TfrxSysMemoView Name="SysMemo1" AllowVectorExport="True" Left="47,22047" Top="4,77952024" Width="94,48825" Height="18,89765" Frame.Typ="0" Text="[PAGE#]"/>
+      <TfrxMemoView Name="Memo9" AllowVectorExport="True" Left="506,45702" Top="198,04729047" Width="50,04731" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="FONE:"/>
+      <TfrxMemoView Name="Memo10" AllowVectorExport="True" Left="564,86644197" Top="198,04729047" Width="108,96073" Height="18,89765" DataField="TELEFONE" DataSet="frxDBRelatCliente" DataSetName="frxDBDatasetServicosCliente" Frame.Typ="0" Text="[frxDBDatasetServicosCliente.&#34;TELEFONE&#34;]"/>
+      <TfrxMemoView Name="Memo13" AllowVectorExport="True" Left="0" Top="105,82684" Width="68,94496" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="TÉCNICO:"/>
+      <TfrxMemoView Name="Memo15" AllowVectorExport="True" Left="0" Top="306,14193" Width="106,74026" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="OBSERVAÇÃO :"/>
+      <TfrxMemoView Name="Memo16" AllowVectorExport="True" Left="0" Top="230,55133" Width="87,84261" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="ENDEREÇO:"/>
+      <TfrxMemoView Name="Memo20" AllowVectorExport="True" Left="506,45702" Top="94,48825" Width="88,84261" Height="18,89765" Frame.Typ="0" Text="DATA ENTR.:"/>
+      <TfrxMemoView Name="Memo19" AllowVectorExport="True" Left="506,45702" Top="117,16543" Width="88,84261" Height="18,89765" Frame.Typ="0" Text="ULT.MANUT.:"/>
+      <TfrxMemoView Name="Memo21" AllowVectorExport="True" Left="506,45702" Top="139,84261" Width="88,84261" Height="18,89765" Frame.Typ="0" Text="FINALIZADO:"/>
+      <TfrxMemoView Name="Memo22" AllowVectorExport="True" Left="604,7248" Top="94,48825" Width="108,96073" Height="18,89765" DataField="DATA" DataSet="frxDBRelatorio" DataSetName="frxDBDatasetOS" Frame.Typ="0" Text="[frxDBDatasetOS.&#34;DATA&#34;]"/>
+      <TfrxMemoView Name="Memo23" AllowVectorExport="True" Left="604,7248" Top="117,16543" Width="108,96073" Height="18,89765" DataField="DATA_MANUTENCAO" DataSet="frxDBRelatorio" DataSetName="frxDBDatasetOS" Frame.Typ="0" Text="[frxDBDatasetOS.&#34;DATA_MANUTENCAO&#34;]"/>
+      <TfrxMemoView Name="Memo24" AllowVectorExport="True" Left="604,7248" Top="139,84261" Width="108,96073" Height="18,89765" DataField="DATA_FIM" DataSet="frxDBRelatorio" DataSetName="frxDBDatasetOS" Frame.Typ="0" Text="[frxDBDatasetOS.&#34;DATA_FIM&#34;]"/>
+      <TfrxShapeView Name="Shape1" AllowVectorExport="True" Left="495,11843" Top="86,92919" Width="230,55086622" Height="78,13389" Frame.Typ="0"/>
+      <TfrxShapeView Name="Shape4" AllowVectorExport="True" Left="0" Top="192,75603" Width="491,33843622" Height="78,13389" Frame.Typ="0"/>
+      <TfrxShapeView Name="Shape5" AllowVectorExport="True" Left="495,11843" Top="192,75603" Width="230,55086622" Height="78,13389" Frame.Typ="0"/>
+      <TfrxLineView Name="Line1" AllowVectorExport="True" Left="109,60637" Top="321,26005" Width="604,7248" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line2" AllowVectorExport="True" Left="3,77953" Top="340,1577" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line3" AllowVectorExport="True" Left="3,77953" Top="359,05535" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line4" AllowVectorExport="True" Left="3,77953" Top="377,953" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line5" AllowVectorExport="True" Left="3,77953" Top="396,85065" Width="710,55164" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxShapeView Name="Shape6" AllowVectorExport="True" Left="0" Top="86,92919" Width="491,33843622" Height="78,13389" Frame.Typ="0"/>
+      <TfrxLineView Name="Line6" AllowVectorExport="True" Left="71,81107" Top="120,94496" Width="408,18924" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line7" AllowVectorExport="True" Left="71,81107" Top="215,43321" Width="408,18924" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxLineView Name="Line8" AllowVectorExport="True" Left="90,70872" Top="249,44898" Width="389,29159" Height="0" Color="0" Frame.Typ="4"/>
+      <TfrxMemoView Name="Memo25" AllowVectorExport="True" Left="0" Top="136,06308" Width="99,1812" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" HAlign="haCenter" ParentFont="False" Text="ASS. CLIENTE:"/>
+      <TfrxLineView Name="Line9" AllowVectorExport="True" Left="98,26778" Top="151,1812" Width="381,73253" Height="0" Color="0" Frame.Typ="4"/>
+    </TfrxHeader>
+    <TfrxReportSummary Name="ReportSummary1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="78,78726" Left="0" Top="555,59091" Width="718,1107"/>
+  </TfrxReportPage>
+</TfrxReport>

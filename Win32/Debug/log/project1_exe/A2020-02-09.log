@@ -1,0 +1,6 @@
+Project1.exe: 000026A4: 21:31:20 []:>--------------------------------------------------------------<
+Project1.exe: 000026A4: 21:31:20 [TUniServerModule]:Server First Init.
+Project1.exe: 000026A4: 21:31:20 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000026A4: 21:31:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000026A4: 21:31:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000026A4: 21:46:06 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0

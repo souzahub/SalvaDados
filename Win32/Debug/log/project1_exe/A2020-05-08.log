@@ -1,0 +1,77 @@
+Project1.exe: 00001DC0: 08:50:05 []:>--------------------------------------------------------------<
+Project1.exe: 00001DC0: 08:50:05 [TUniServerModule]:Server First Init.
+Project1.exe: 00001DC0: 08:50:05 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001DC0: 08:50:05 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001DC0: 08:50:05 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000F10: 09:25:46 []:>--------------------------------------------------------------<
+Project1.exe: 00000F10: 09:25:46 [TUniServerModule]:Server First Init.
+Project1.exe: 00000F10: 09:25:46 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00000F10: 09:25:47 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00000F10: 09:25:47 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006DD475
+Project1.exe: 00002A74: 10:04:29 []:>--------------------------------------------------------------<
+Project1.exe: 00002A74: 10:04:29 [TUniServerModule]:Server First Init.
+Project1.exe: 00002A74: 10:04:29 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002A74: 10:04:29 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002A74: 10:04:29 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006DD475
+Project1.exe: 00001864: 10:05:15 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002A1C: 10:06:40 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000260C: 10:33:03 []:>--------------------------------------------------------------<
+Project1.exe: 0000260C: 10:33:03 [TUniServerModule]:Server First Init.
+Project1.exe: 0000260C: 10:33:03 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 0000260C: 10:33:03 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000260C: 10:33:03 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000005E4: 10:33:44 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00000FDC: 10:34:02 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 000029B8: 10:35:01 []:>--------------------------------------------------------------<
+Project1.exe: 000029B8: 10:35:01 [TUniServerModule]:Server First Init.
+Project1.exe: 000029B8: 10:35:01 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+Project1.exe: 000029B8: 10:35:01 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000029B8: 10:35:01 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001D94: 10:35:10 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001D94: 10:35:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002348: 10:36:15 []:>--------------------------------------------------------------<
+Project1.exe: 00002348: 10:36:15 [TUniServerModule]:Server First Init.
+Project1.exe: 00002348: 10:36:15 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+Project1.exe: 00002348: 10:36:15 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002348: 10:36:15 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00001050: 10:36:34 []:>--------------------------------------------------------------<
+Project1.exe: 00001050: 10:36:34 [TUniServerModule]:Server First Init.
+Project1.exe: 00001050: 10:36:34 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001050: 10:36:34 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001050: 10:36:34 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000005E4: 10:36:37 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 000005E4: 10:36:39 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00002958: 10:37:38 []:>--------------------------------------------------------------<
+Project1.exe: 00002958: 10:37:38 [TUniServerModule]:Server First Init.
+Project1.exe: 00002958: 10:37:38 [TUniServerModule]:Global Cache Folder Erased. <10> Files deleted.
+Project1.exe: 00002958: 10:37:38 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00002958: 10:37:38 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 000021EC: 10:38:07 []:>--------------------------------------------------------------<
+Project1.exe: 000021EC: 10:38:07 [TUniServerModule]:Server First Init.
+Project1.exe: 000021EC: 10:38:07 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000021EC: 10:38:07 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 000021EC: 10:38:07 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002208: 10:38:10 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00002208: 10:38:12 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001B50: 10:39:02 []:>--------------------------------------------------------------<
+Project1.exe: 00001B50: 10:39:02 [TUniServerModule]:Server First Init.
+Project1.exe: 00001B50: 10:39:02 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Project1.exe: 00001B50: 10:39:02 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001B50: 10:39:02 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00002988: 10:39:03 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00002988: 10:39:05 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 0000223C: 10:39:52 []:>--------------------------------------------------------------<
+Project1.exe: 0000223C: 10:39:52 [TUniServerModule]:Server First Init.
+Project1.exe: 0000223C: 10:39:52 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+Project1.exe: 0000223C: 10:39:52 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 0000223C: 10:39:52 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000E48: 10:39:54 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001C4C: 10:40:12 []:>--------------------------------------------------------------<
+Project1.exe: 00001C4C: 10:40:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00001C4C: 10:40:12 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00001C4C: 10:40:12 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Project1.exe: 00001C4C: 10:40:12 [TUniServerModule]:HTTP Server Started on Port: 8080
+Project1.exe: 00000AC0: 10:40:15 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001098: 10:40:15 [192.168.0.101]:EUniSessionException : Sessão inválida ou tempo limite da sessão. : Addr: $007CEFF3
+Project1.exe: 00001F08: 10:40:54 [HandleFileRequest[192.168.0.101]]:File not found: D:\2020\Projetos 2020\Mobile_SalvaRegistros\Win32\Debug\files\loading\files\loading\11.gif
+Project1.exe: 00001C4C: 10:52:54 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
